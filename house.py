@@ -15,7 +15,7 @@ model = joblib.load('housepredictor.pkl')
 st.markdown("<h1 style = 'color: #CD1818; text-align: center; font-family: helvetica '>HOUSE PRICE PREDICTION </h1>", unsafe_allow_html = True)
 st.markdown("<h4 style = 'margin: -30px; color: #12372A; text-align: center; font-family: cursive '>Built By GomyCode MTW</h4>", unsafe_allow_html = True)
 
-st.image('pngwing.com (3).png',width= 20, use_column_width = True)
+st.image('pngwing.com (5).png',width= 20, use_column_width = True)
 st.markdown("<br>", unsafe_allow_html = True)
 
 st.markdown("<p style = 'text-align: justify'>The predictive house price modeling project aims to leverage machine learning techniques to develop an accurate and robust model capable of predicting the market value of residential properties. By analyzing historical data, identifying key features influencing house prices, and employing advanced regression algorithms, the project seeks to provide valuable insights for homebuyers, sellers, and real estate professionals. The primary objective of this project is to create a reliable machine learning model that accurately predicts house prices based on relevant features such as location, size, number of bedrooms, amenities, and other influencing factors. The model should be versatile enough to adapt to different real estate markets, providing meaningful predictions for a wide range of properties.", unsafe_allow_html= True)
